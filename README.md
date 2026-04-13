@@ -5,77 +5,79 @@
 <p align="center">
 I am a Machine Learning Engineer with an MSc in Robotics & AI, specialising in building and deploying production-grade machine learning systems.
 
-I have hands-on experience across the full ML lifecycle — from data engineering and model development to deployment, monitoring, and scaling using cloud-native tools.
+I have hands-on experience across the full ML lifecycle from data engineering and model development to deployment, monitoring, and scaling using cloud-native tools.
 
-🔹 Built and deployed an end-to-end fraud detection system with real-time inference  
-🔹 Developed a production-ready RAG system for financial regulatory document analysis  
-🔹 Strong focus on MLOps, system design, and scalable AI systems  
+1. Built and deployed an end-to-end fraud detection system with real-time inference  
+2. Developed a production-ready RAG system for financial regulatory document analysis  
+3.  Strong focus on MLOps, system design, and scalable AI systems  
 
 I aim to design intelligent systems that solve real-world problems at scale.
 </p>
 
 
 <h2 align="center"> Skills & Tech Stack</h2>
-
+## Tech Stack
+ 
+### Data & Analytics (Foundation)
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge"/>
+</p>
+ 
 ### Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge"/>
+<p align="left">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white%22/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
 </p>
-
-### Data & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge"/>
-</p>
-
+ 
 ### LLM & Retrieval Systems
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Qdrant-FF4F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-FF4F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
 </p>
-
+ 
 ### Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
+<p align="left">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
 </p>
-
+ 
 ### MLOps & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"…
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge"/>
 </p>
-
+ 
 ### Cloud & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
 </p>
-
+ 
 ### Monitoring & Observability
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge"/>
+</p>
+ 
+### Frontend / UI
+<p align="left">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
 </p>
 
-### Frontend / UI
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
-</p>
 
 
 ##  GitHub Stats
