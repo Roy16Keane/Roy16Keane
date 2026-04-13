@@ -22,6 +22,7 @@ I aim to design intelligent systems that solve real-world problems at scale.
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge"/>
 </p>
@@ -34,9 +35,21 @@ I aim to design intelligent systems that solve real-world problems at scale.
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge"/>
 </p>
 
-### MLOps & Deployment
+### LLM & Retrieval Systems
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+</p>
+
+### Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
+</p>
+
+### MLOps & Deployment
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
@@ -50,7 +63,6 @@ I aim to design intelligent systems that solve real-world problems at scale.
   <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
 </p>
 
 ### Monitoring & Observability
@@ -60,6 +72,10 @@ I aim to design intelligent systems that solve real-world problems at scale.
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge"/>
 </p>
 
+### Frontend / UI
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+</p>
 
 
 ##  GitHub Stats
