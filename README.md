@@ -2,14 +2,6 @@
 <h1 align="center"> Roykeane Syangu</h1>
 <h2 align="center">Machine Learning & AI Engineer | Data Scientist | MLOps Engineer </h2>
 
-
-<div align="center">
-<a href="https://github.com/Roy16Keane"><h2>My GitHub Portfolio</h2></a>
-</div>
-
-
-
-<h2 align="center">About Me</h2>
 <p align="center">
 I am a Machine Learning Engineer with an MSc in Robotics & AI, specialising in building and deploying production-grade machine learning systems.
 
