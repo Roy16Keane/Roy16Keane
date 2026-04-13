@@ -16,7 +16,7 @@ I aim to design intelligent systems that solve real-world problems at scale.
 
 
 <h2 align="center"> Skills & Tech Stack</h2>
-## Tech Stack
+
  
 ### Data & Analytics (Foundation)
 <p align="left">
